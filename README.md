@@ -1,10 +1,7 @@
-🚀 Smart-Farm: Hệ thống tưới tự động cho trang trại Lan
+#🚀 Smart-Farm: Hệ thống tưới tự động cho trang trại Lan
 
 Sơ đồ phối hợp phần cứng Smart-Farm: cảm biến → ESP32 → relay → máy bơm, kèm Wi-Fi gửi thông báo về điện thoại
-
-Hình 1. Sơ đồ phối hợp phần cứng của hệ thống Smart-Farm.
-
-📖 Mô tả
+#📖 Mô tả
 
 Smart-Farm là hệ thống IoT giúp tự động đo nhiệt độ, độ ẩm đất và tự bật/tắt máy bơm đúng lúc cây cần nước. Bạn không cần ra vườn kiểm tra nhiều lần mỗi ngày.
 
